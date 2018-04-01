@@ -1,0 +1,19 @@
+future: true
+permalink: /:title/
+url: http://ValerieTan5729.github.io
+title: GROWTH
+SEOTitle: How ever you may work hard, you will have much luck!
+# name: Road of growth
+author: Valerie Tan
+qq: 1163590061
+email: tanyy8@mail2.sysu.edu.cn
+
+github: Valerie Tan
+about: "这里是 Valerie Tan 的个人博客，创建于 2018 年。"
+
+# Sidebar settings
+sidebar: true  #添加侧边栏
+sidebar-about-description: "简单的描述一下你自己"
+
+safe: true
+paginate: 15
